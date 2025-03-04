@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="expand-categories" transform="translate(-3 -5.937)">
+    <path id="Path_82" data-name="Path 82" class="cls-1" d="M30,39h3.964v1.321H30Z" transform="translate(-15.607 -19.384)"/>
+    <path id="Path_83" data-name="Path 83" class="cls-1" d="M30,27h5.286v1.321H30Z" transform="translate(-15.607 -12.349)"/>
+    <path id="Path_84" data-name="Path 84" class="cls-1" d="M30,15h6.607v1.321H30Z" transform="translate(-15.607 -5.314)"/>
+    <path id="Path_85" data-name="Path 85" class="cls-1" d="M22.5,6h1.321V20.972H22.5Z" transform="translate(-11.161 -0.035)"/>
+    <path id="Path_86" data-name="Path 86" class="cls-1" d="M8.673,5.938,6.3,8.111,3.933,5.937,3,6.872,6.3,9.929l3.3-3.057Z"/>
+  </g>
+</svg>

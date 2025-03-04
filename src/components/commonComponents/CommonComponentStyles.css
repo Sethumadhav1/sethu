@@ -1,0 +1,38 @@
+.KPIDoublet-description {
+    font-size: 14px;
+  }
+ .KPIDoublet {
+    align-items: flex-start !important;
+    justify-content: space-around;
+    /* padding-left: 10%; */
+  }
+  
+ .KPIDoubletDivider {
+    /* align-self: flex-start !important; */
+    /* width: 70% !important; */
+  }
+  .KPI-doublet-KPI {
+    /* align-items: flex-start !important; */
+    height: 100%;
+  }
+
+  @media (max-width: 1200px){
+ .KPIDoublet {
+    flex-direction: row !important;
+    justify-content: space-between;
+    min-height: 120px;
+    align-items: center!important;
+    padding:2%!important
+  }
+  .KPIDoubletDivider {
+    display: none;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .KPIDoublet-description {
+        font-size: 12px;
+      }
+      .KPIDoublet-data {
+        font-size: 22px !important;
+      }
+}

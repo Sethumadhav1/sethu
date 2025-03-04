@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #434343;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_602" data-name="Ellipse 602" class="cls-1" cx="90" cy="90" r="90" transform="translate(2102 9829)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_350" data-name="Group 350" transform="translate(-9055 -9160)">
+    <path id="Icon_material-account-circle" data-name="Icon material-account-circle" class="cls-3" d="M93,3a90,90,0,1,0,90,90A90.033,90.033,0,0,0,93,3Zm0,27A27,27,0,1,1,66,57,26.964,26.964,0,0,1,93,30Zm0,127.8a64.8,64.8,0,0,1-54-28.98c.27-17.91,36-27.72,54-27.72,17.91,0,53.73,9.81,54,27.72A64.8,64.8,0,0,1,93,157.8Z" transform="translate(9052 9157)"/>
+  </g>
+</svg>

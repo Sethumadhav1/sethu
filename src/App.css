@@ -1,0 +1,15 @@
+body{
+  margin:0px;
+}
+.content{
+  background: #f0f5fd;
+}
+#page-content{
+  display: flex;
+  background:#f0f5fd; 
+  height: calc(100vh - 50px);
+}
+#root{
+  /* font-family: Roboto; */
+  font-family:Inter;
+}

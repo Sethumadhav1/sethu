@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.068" height="20.565" viewBox="0 0 20.068 20.565">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="graph-horizontal" transform="translate(0.193 -6.1)">
+    <g id="Group_6" data-name="Group 6" transform="translate(0.807 7.1)">
+      <path id="Path_19" data-name="Path 19" class="cls-1" d="M20.514,9.443H3.168a.369.369,0,0,0-.361.376v3.759a.369.369,0,0,0,.361.376H20.514a.369.369,0,0,0,.361-.376V9.819A.369.369,0,0,0,20.514,9.443Z" transform="translate(-2.807 -2.398)"/>
+      <path id="Path_20" data-name="Path 20" class="cls-1" d="M13.761,4.113V4.1H3.183a.376.376,0,0,0-.376.376V8.235a.376.376,0,0,0,.376.376H13.761V8.6a.375.375,0,0,0,.282-.363V4.476l-.031-.149Z" transform="translate(-2.807 -4.1)"/>
+      <path id="Path_21" data-name="Path 21" class="cls-1" d="M16.152,14.758H3.183a.376.376,0,0,0-.376.376v3.759a.376.376,0,0,0,.376.376H16.152a.376.376,0,0,0,.376-.376V15.134A.376.376,0,0,0,16.152,14.758Z" transform="translate(-2.807 -0.704)"/>
+    </g>
+  </g>
+</svg>

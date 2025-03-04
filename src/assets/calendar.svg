@@ -1,0 +1,10 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_67" data-name="Path 67" class="cls-1" d="M24.333,4.538H21V3H19.333V4.538H12.667V3H11V4.538H7.667A1.611,1.611,0,0,0,6,6.077V21.462A1.611,1.611,0,0,0,7.667,23H24.333A1.611,1.611,0,0,0,26,21.462V6.077A1.611,1.611,0,0,0,24.333,4.538Zm0,16.923H7.667V10.692H24.333Zm0-12.308H7.667V6.077H11V7.615h1.667V6.077h6.667V7.615H21V6.077h3.333Z" transform="translate(-6 -3)"/>
+</svg>

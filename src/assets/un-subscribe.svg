@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19.791" viewBox="0 0 20 19.791">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <g id="bx-message-check" transform="translate(-4 -4)">
+    <path id="Path_74" data-name="Path 74" class="cls-1" d="M22,4H6A2,2,0,0,0,4,6V18.017a2,2,0,0,0,2,2H9v3.772l6.277-3.772H22a2,2,0,0,0,2-2V6A2,2,0,0,0,22,4ZM10.144,21.616Z"/>
+    <line id="Line_171" data-name="Line 171" class="cls-2" x2="7" y2="7" transform="translate(10.5 8.6)"/>
+    <line id="Line_172" data-name="Line 172" class="cls-2" y1="7" x2="7" transform="translate(10.5 8.6)"/>
+  </g>
+</svg>

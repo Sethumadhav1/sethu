@@ -1,0 +1,188 @@
+#header {
+  align-items: center;
+  background: #272727;
+  /* border-bottom: 1px #1b1a1e solid; */
+  box-sizing: border-box;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  width: 100%;
+  z-index: 45;
+}
+
+#header-logo,
+#header-title,
+#header-account {
+  align-items: center;
+  display: flex;
+}
+
+#header-logo {
+  margin-left: 20px;
+}
+
+#pepsico-logo {
+  height: 22px;
+  width: 96.45px;
+}
+
+#webapp-logo {
+  margin-right: 10px;
+  width: 12px;
+  width: 14px;
+  height: 14px;
+}
+
+#webapp-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+  color:white;
+}
+
+#header-account {
+  float: left;
+  margin-right: 20px;
+}
+
+#notifications-icon {
+  margin-right: 24px;
+  width: 17px;
+  height: 20px;
+  color: #7e7e7e;
+}
+
+#user-icon {
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+  height: 34.13px;
+  overflow: hidden;
+  width: 34.13px;
+}
+
+#profile-name {
+  background: #21a6ed;
+  color: #26252b;
+  font-size: 22px;
+  font-weight: 500;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  width: 38px;
+}
+
+#profile-pic {
+  height: 38px;
+  width: 38px;
+}
+
+#profile-popup {
+  background: #2a3036;
+  border-radius: 5px;
+  border: 1px solid #2a3036;
+  box-shadow: 0px 0px 2px #0000003d, 0px 8px 16px #00000047;
+  color: #e7e7e7;
+  padding: 5px;
+  position: absolute;
+  right: 5px;
+  top: 50px;
+  width: 300px;
+  z-index: 50;
+}
+
+.profile-popup-details {
+  cursor: default;
+  margin: 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#user-name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#user-email {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+#logout-button {
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.6;
+  text-align: right;
+}
+
+#logout-button:hover {
+  opacity: 1;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -123;
+  }
+}
+
+.spinner-responsive-view {
+  display: none;
+}
+
+.spinner-header {
+  position: absolute;
+  margin-left: -45px;
+}
+
+@media (max-width: 768px) {
+  #user-icon {
+    height: 34.13px;
+    width: 34.13px;
+  }
+  #profile-name {
+    font-size: 20px;
+    height: 34.13px;
+    line-height: 34.13px;
+    width: 34.13px;
+  }
+  #profile-pic {
+    height: 34.13px;
+    width: 34.13px;
+  }
+}
+
+@media (min-width: 1439px) {
+  #user-icon {
+    height: 34.13px;
+    width: 34.13px;
+  }
+  #profile-name {
+    font-size: 20px;
+    height: 34.13px;
+    line-height: 34.13px;
+    width: 34.13px;
+  }
+  #profile-pic {
+    height: 34.13px;
+    width: 34.13px;
+  }
+}

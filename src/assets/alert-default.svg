@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.553" height="18.826" viewBox="0 0 21.553 18.826">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="alert-triangle" transform="translate(-2.328 -5.045)">
+    <g id="Group_212" data-name="Group 212" transform="translate(3.104 5.795)">
+      <path id="Path_91" data-name="Path 91" class="cls-1" d="M11.467,6.716,3.36,20.25A1.914,1.914,0,0,0,5,23.121H21.211a1.914,1.914,0,0,0,1.637-2.871L14.741,6.716a1.914,1.914,0,0,0-3.273,0Z" transform="translate(-3.104 -5.795)"/>
+      <path id="Path_92" data-name="Path 92" class="cls-1" d="M24,18v5.578" transform="translate(-14 -12.916)"/>
+      <path id="Path_93" data-name="Path 93" class="cls-1" d="M24,34h.014" transform="translate(-14.002 -20.502)"/>
+    </g>
+  </g>
+</svg>

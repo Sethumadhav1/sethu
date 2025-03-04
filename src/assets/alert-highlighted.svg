@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.553" height="22.913" viewBox="0 0 21.553 22.913">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #ed0000;
+      }
+    </style>
+  </defs>
+  <g id="Group_213" data-name="Group 213" transform="translate(-102.225 -210.197)">
+    <g id="alert-triangle" transform="translate(99.896 209.239)">
+      <g id="Group_212" data-name="Group 212" transform="translate(3.104 5.795)">
+        <path id="Path_91" data-name="Path 91" class="cls-1" d="M11.467,6.716,3.36,20.25A1.914,1.914,0,0,0,5,23.121H21.211a1.914,1.914,0,0,0,1.637-2.871L14.741,6.716a1.914,1.914,0,0,0-3.273,0Z" transform="translate(-3.104 -5.795)"/>
+        <path id="Path_92" data-name="Path 92" class="cls-1" d="M24,18v5.578" transform="translate(-14 -12.916)"/>
+        <path id="Path_93" data-name="Path 93" class="cls-1" d="M24,34h.014" transform="translate(-14.002 -20.502)"/>
+      </g>
+    </g>
+    <circle id="Ellipse_599" data-name="Ellipse 599" class="cls-2" cx="5" cy="5" r="5" transform="translate(113.35 210.197)"/>
+  </g>
+</svg>

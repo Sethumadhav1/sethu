@@ -1,0 +1,14 @@
+.KPI-Box-Data-Subscript {
+    font-size: 8px !important;
+  }
+  .KPI-Box-Data {
+    font-size: 24px !important;
+  }
+  .KPI-Box-Description {
+    color:"#6E6E6E";
+    font-size: 10px !important ;
+  }
+   .KPI-Box {
+    color:"#02152B";
+    height: 4rem;
+  }

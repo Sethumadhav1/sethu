@@ -1,0 +1,10 @@
+<svg id="printer" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_29" data-name="Path 29" class="cls-1" d="M21.571,9.115H19.429V4.5H6.571V9.115H4.429A1.487,1.487,0,0,0,3,10.654v7.692a1.487,1.487,0,0,0,1.429,1.538H6.571V24.5H19.429V19.885h2.143A1.487,1.487,0,0,0,23,18.346V10.654A1.487,1.487,0,0,0,21.571,9.115ZM8,6.038H18V9.115H8ZM18,22.962H8V15.269H18Zm3.571-4.615H19.429V13.731H6.571v4.615H4.429V10.654H21.571Z" transform="translate(-3 -4.5)"/>
+</svg>

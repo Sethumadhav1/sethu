@@ -1,0 +1,44 @@
+@media (max-width: 599px) {
+    #header {
+        background: transparent;
+        border: none;
+        height: 45px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: auto;
+    }
+    #header-title {
+        display: none;
+    }
+    #header-logo {
+        display: none;
+    }
+    #header-account {
+        float: left;
+        margin: 0px 10px;
+    }
+    #user-icon {
+        height: 28px;
+        width: 28px;
+    }
+    #profile-name {
+        font-size: 20px;
+        height: 28px;
+        line-height: 28px;
+        width: 28px;
+    }
+    #profile-pic {
+        height: 28px;
+        width: 28px;
+    }
+    .spinner-responsive-view {
+        display: inline;
+    }
+    .spinner-svg {
+        height: 32px;
+        margin-top: -2px;
+        width: 32px;
+    }
+
+}

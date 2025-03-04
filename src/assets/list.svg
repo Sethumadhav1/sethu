@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="21" viewBox="0 0 26 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Icon_material-view-list" data-name="Icon material-view-list" transform="translate(0.5 0.5)">
+    <path id="Icon_material-view-list-2" data-name="Icon material-view-list" class="cls-1" d="M6,20.357h5.882V14.643H6ZM6,27.5h5.882V21.786H6ZM6,13.214h5.882V7.5H6Zm7.353,7.143H31V14.643H13.353Zm0,7.143H31V21.786H13.353Zm0-20v5.714H31V7.5Z" transform="translate(-6 -7.5)"/>
+  </g>
+</svg>
